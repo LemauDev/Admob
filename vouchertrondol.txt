@@ -1,2 +1,2 @@
-LemauDev,500
-LemauDevGameTipeXTrondolTerbaik,5000
+LemauDev,1000
+LemauDevGameTipeXTrondolTerbaik,2000
