@@ -1,3 +1,3 @@
-LemauDev,1000
+LemauDev,2000
 LemauDevGameTipeXTrondolTerbaik,2000
-FaiKontol,9999
+GameTipeXTrondolTerbaik,2000
